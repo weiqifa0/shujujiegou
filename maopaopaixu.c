@@ -7,7 +7,7 @@ int main()
     int arr[10] = {12,12,1,78,500,5,7,699,752,233};
     for(i=0;i<sizeof(arr)/sizeof(arr[0]);i++)
         printf("%d ",arr[i]);printf("\n");
-    for(i=0;i<10;i++)
+    for(i=0;i<10-1;i++)
     {
         for(j=0;j<10-i-1;j++)
         {
