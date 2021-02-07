@@ -27,4 +27,4 @@ https://mp.weixin.qq.com/s/yoBwm1lh1QLmsZTvlpqqRA
 # 归并排序
 这也是一种分类排序
 
-[](https://mp.weixin.qq.com/s/e1Pf5fbsV5KE_FhUosEuvg)
+https://mp.weixin.qq.com/s/e1Pf5fbsV5KE_FhUosEuvg
